@@ -11,7 +11,7 @@ window.emoticonx = (function () {
     // Insert emoticon helper UI
     $(editorPos).before(
       '<div style="text-align:center" class="emoWrap">' +
-      ' :) :)) ;(( :-) =)) ;( ;-( :d :-d @-) :p :o :&gt;) (o) [-( :-? (p) :-s (m) 8-) :-t :-b b-( :-# =p~ $-) (b) (f) x-) (k) (h) (c) cheer ' +
+      ' :a :b :c :d :e :f :g :h :i :j :k :l :m ' +
       '<br/><b>' + topText + '</b><br/>' + message +
       '</div>'
     );
